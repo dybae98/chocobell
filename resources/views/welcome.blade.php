@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    LaravelManchas2
+                    m kiero morir owo
                 </div>
 
                 <div class="links">
